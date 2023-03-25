@@ -1,0 +1,4 @@
+app = "flylimonada-test"
+kill_signal = "SIGING"
+kill_timeout = 5
+processes = []
